@@ -5,7 +5,7 @@ export default function Home() {
 
         <div className="flex h-[10%] justify-between p-5">
           <div>
-            <p className="text-white">IO TEAM</p>
+            <p className="text-white">Search Diego</p>
           </div>
           <div className="flex items-center gap-x-10 ">
 
