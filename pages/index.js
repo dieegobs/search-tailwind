@@ -21,8 +21,8 @@ export default function Home() {
         </div>
 
         <div className="h-[90%]">
-          <div className="h-[50%] w-full">
-            <p className="text-white">Welcome to Diego Dev</p>
+          <div className="h-[50%] w-full flex items-center justify-center pt-16">
+            <p className="text-gray-300 text-4xl">Welcome to Diego Dev</p>
           </div>
         </div>
 
