@@ -26,7 +26,7 @@ export default function Home() {
           </div>
 
         <div className="w-full flex justify-center">
-          <input className="bg-gray-300 w-[30%] text-xs px-5 py-4 rounded-xl " placeholder="Search by Name, Projects. etc"></input>
+          <input className="bg-gray-300 w-[30%] text-xs px-5 py-4 rounded-xl mx-2 " placeholder="Search by Name, Projects. etc"></input>
           <button className="text-white rounded-xl py-3 px-12 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">LOOK UP</button>
         </div>
 
