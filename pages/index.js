@@ -24,6 +24,11 @@ export default function Home() {
           <div className="h-[50%] w-full flex items-center justify-center pt-16">
             <p className="text-gray-300 text-4xl">Welcome to Diego Dev</p>
           </div>
+
+        <div className="w-full flex justify-center">
+          <input className="bg-gray-300 w-[30%] text-xs px-5 py-4 rounded-xl " placeholder="Search by Name, Projects. etc"></input>
+        </div>
+
         </div>
 
       </div>
