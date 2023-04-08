@@ -8,7 +8,7 @@ export default function Home() {
             <p className="text-white">IO TEAM</p>
           </div>
           <div className="flex items-center gap-x-10 ">
-           
+
             <div>
               <p className="text-white text-sm">LOGIN</p>
             </div>
@@ -20,9 +20,11 @@ export default function Home() {
           </div>
         </div>
 
-      <div>
-        
-      </div>
+        <div className="h-[90%]">
+          <div className="h-[50%] w-full">
+            <p className="text-white">Welcome to Diego Dev</p>
+          </div>
+        </div>
 
       </div>
     </section>
